@@ -1,0 +1,45 @@
+.track_box{
+  background-color: rgba(24, 24, 24, 0.29);
+  padding: 30px;
+  color: white;
+  border-radius: 10px;
+}
+
+.input{
+  margin-bottom: 20px;
+  background-color: rgba(49, 49, 49, 0.25);
+}
+
+.img{
+  margin-top: 20px;
+  border-radius: 10px;
+  margin-bottom: 35px;
+}
+
+.back{
+  color: #101010;
+  border-color: #101010;
+}
+
+.back:hover{
+  color: #101010;
+  border-color: #04b71b;
+}
+
+.send2{
+  background-color: #04b71b;
+  padding: 10px 20px;
+  color: black;
+}
+
+
+.send{
+  background-color: #04b71b;
+  color: black;
+  height: 40px;
+}
+
+.send:hover{
+  border: #04b71b solid 1px;
+  color: #04b71b;
+}

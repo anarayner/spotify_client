@@ -1,0 +1,48 @@
+
+
+.main{
+  background: linear-gradient(0deg, #121212 0%, #212121 100%);
+  color: #ffffff;
+}
+.center{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  place-items: center;
+  justify-content: center;
+  background: linear-gradient(0deg, rgba(18,18,18,1) 0%, rgb(28, 28, 28) 100%);
+  color: #ffffff;
+  min-height: 100vh;
+}
+.track_center{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(0deg, rgba(18,18,18,1) 29%, rgb(random(255), random(255), random(255)) 100%);
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+.main_box{
+  background: #1C1C1CFF;
+}
+
+.main_card{
+  width: 80%;
+  background: #1C1C1CFF;
+  color: #ffffff;
+}
+
+.upload{
+  background-color: #04b71b;
+  color: black;
+  height: 40px;
+}
+
+.upload:hover{
+  border: #04b71b solid 1px;
+  color: #04b71b;
+ }

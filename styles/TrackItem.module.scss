@@ -1,0 +1,44 @@
+
+
+.track{
+  margin: 15px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  background: rgba(38, 38, 38, 0.31);
+  color: #ecebeb;
+  border: rgba(40, 40, 40, 0.32) 1px solid;
+}
+.track:hover{
+  background: rgba(49, 49, 49, 0.41);
+}
+
+.play_button{
+  color: #ecebeb;
+  margin-right: 20px;
+  margin-left: 10px;
+  background-color: rgba(61, 61, 61, 0.44);
+}
+
+.play_button:hover{
+  background: #101010;}
+
+.delete_icon{
+  margin-left: auto;
+  color: #ecebeb;
+  background-color: rgba(61, 61, 61, 0.44);
+  margin-right: 10px;
+
+}
+
+.text{
+  font-size: 12px;
+  color: #6e6e6e;
+}
+.img{
+  margin-right: 10px;
+  width: 70px;
+  height: 70px;
+  border-radius: 5px;
+
+}
